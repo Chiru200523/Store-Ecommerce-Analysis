@@ -117,6 +117,6 @@ Data Analyst
 ### 📫 Connect with Me
 
 - 💼 LinkedIn: www.linkedin.com/in/cheranjeevi-m
-- 💻 GitHub: 
+- 💻 GitHub: https://github.com/Chiru200523
 
 ⭐ If you found this project helpful, consider giving it a star.
